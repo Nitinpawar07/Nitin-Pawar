@@ -11,6 +11,10 @@ I'm Nitin Pawar. recently graduated from Indira College of Engineering Pune.
 ## passionate about
 
 - Java
+- Python
+- Php
+- Javascript
+
 
 
 
