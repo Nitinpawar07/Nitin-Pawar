@@ -4,21 +4,26 @@
 
 ## About me
 
-I'm Nitin Pawar. recently graduated in 2023 
+I'm Nitin Pawar. currently working as associate engineer in karplexus pvt ltd
 
 
 ## Education :mortar_board:
 - Indira College of Engineering & Management Pune
 -Computer Engineering 
 
-## Passionate about
+## Proffessional Skill
 
 - Java
 - Python
-- Php
+- Spring Boot
 - Javascript
-
-
+- Angular js
+- MySql
+- Postgres
+- Armeria
+- MapStruct
+- JDBI
+- Dagger
 
 
 
@@ -26,12 +31,9 @@ I'm Nitin Pawar. recently graduated in 2023
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...  Java Full stack Developer
+- 🔭 I’m currently working on Java Technology
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
